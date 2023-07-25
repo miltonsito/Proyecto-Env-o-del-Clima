@@ -8,7 +8,7 @@ Para esto, lo que utilice fue una instancia de EC2 y un script de Python para co
 Procesar los datos y luego comprar un número de celular de Twilio el cual me permitió enviar mensajes desde ese número de twilio hasta mi celular de manera diaria.
 
 En el siguiente video se explica el proceso:
-
+https://www.youtube.com/watch?v=RvxZkL9gmo8
 
 Gracias por pasar!!
 
