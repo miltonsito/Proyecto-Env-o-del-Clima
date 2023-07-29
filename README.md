@@ -10,7 +10,9 @@ Procesar los datos y luego comprar un número de celular de Twilio el cual me pe
 En el siguiente video se explica el proceso:
 https://www.youtube.com/watch?v=RvxZkL9gmo8
 
-Gracias por pasar!!
+![](https://github.com/miltonsito/Proyecto-Env-o-del-Clima/blob/main/photo1690583470.jpeg)
+
+### Gracias por pasar!!
 
 
 
